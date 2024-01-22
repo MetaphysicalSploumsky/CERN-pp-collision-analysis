@@ -40,11 +40,17 @@ ML meet Particle Physics:
 - de Oliveira, L., Kagan, M., Mackey, L. et al. Jet-images — deep learning edition. J. High Energ. Phys. 2016, 69 (2016). https://doi.org/10.1007/JHEP07(2016)069
 - Lee, J.S.H., Park, I., Watson, I.J. et al. Quark-Gluon Jet Discrimination Using Convolutional Neural Networks. J. Korean Phys. Soc. 74, 219–223 (2019). https://doi.org/10.3938/jkps.74.219
 - Komiske, Patrick T., Eric M. Metodiev and Matthew D. Schwartz. “Deep learning in color: towards automated quark/gluon jet discrimination.” Journal of High Energy Physics 2017 (2016): n. pag.
+- Albertsson, K. (2021). Machine Learning in High-Energy Physics: Displaced Event Detection and Developments in ROOT/TMVA (PhD dissertation, Luleå University of Technology). Retrieved from https://urn.kb.se/resolve?urn=urn:nbn:se:ltu:diva-87247
+- Baldi, P., Sadowski, P. & Whiteson, D. Searching for exotic particles in high-energy physics with deep learning. Nat Commun 5, 4308 (2014). https://doi.org/10.1038/ncomms5308
 
 Purely ML
 - Mahesh, Batta. (2019). Machine Learning Algorithms -A Review. 10.21275/ART20203995.
+- Deep learning with python. (2017). François Chollet. Manning Publications. 
 
 Purely Particle Physics
+- Aad, G., Abbott, B., Abdallah, J., Khalek, S. Abdel, Abdinov, O., Aben, R., Abi, B., Abolins, M., AbouZeid, O. S., Abramowicz, H., Abreu, H., Abreu, R., Abulaiti, Y., Acharya, B. S., Adamczyk, L., Adams, D. L., Adelman, J., Adomeit, S., Adye, T., and et al.. 2014. "Light-quark and gluon jet discrimination in collisions at root s=7 TeV with the ATLAS detector". United States. https://doi.org/10.1140/epjc/s10052-014-3023-z.
+-  Rogan, Christopher Sean (2013) Searches for New Symmetries in pp Collisions with the Razor Kinematic Variables at √s = 7 TeV. Dissertation (Ph.D.), California Institute of Technology. doi:10.7907/B0MD-F026. https://resolver.caltech.edu/CaltechTHESIS:05072013-174540453 
+
 
 
 
