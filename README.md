@@ -34,7 +34,7 @@ The final model was built using the Keras functional API. Kept it simple: sequen
 
 ## Some interesting references
 
-As this was my first time swimming in deep [learning] waters (get it?), I first went over a couple of references to acquaint myself with it all (even tho I far from used everything I read about). The following also includes some papers on purely particle physics, as I am no particle physicist (yet!) but still wanted to get a more in-depth explanation on the features of the dataset. My goal in the coming months is to implement a number of these papers, as what they describe really piqued my interest from a technical point of view. Enjoy the read, they're all great texts in my opnion.
+As this was my first time diving in deep [learning] waters (get it?), I first went over a couple of references to acquaint myself with it all (even tho I far from used everything I read about). The following also includes some papers on purely particle physics, as I am no particle physicist (yet!) but still wanted to get a more in-depth explanation on the features of the dataset. My goal in the coming months is to implement a number of these papers, as what they describe really piqued my interest from a technical point of view. Enjoy the read, they're all great texts in my opnion.
 
 ML meet Particle Physics:
 - de Oliveira, L., Kagan, M., Mackey, L. et al. Jet-images — deep learning edition. J. High Energ. Phys. 2016, 69 (2016). https://doi.org/10.1007/JHEP07(2016)069
